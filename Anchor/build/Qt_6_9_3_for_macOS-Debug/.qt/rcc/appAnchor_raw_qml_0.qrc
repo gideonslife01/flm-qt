@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Anchor/">
+    <file alias="Main.qml">/Users/gimdaegyeong/Desktop/app/cpp/Anchor/Main.qml</file>
+  </qresource>
+</RCC>
+
