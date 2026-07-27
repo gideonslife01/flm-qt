@@ -1,0 +1,9 @@
+# ninja log v6
+1	258	1785150095767841444	example1_autogen/timestamp	46158ee048ae1498
+1	258	1785150095767841444	example1_autogen/mocs_compilation.cpp	46158ee048ae1498
+1	258	1785150095767841444	/Users/gimdaegyeong/Desktop/app/cpp/QT/example1/build/Qt_6_9_3_for_macOS-Debug/example1_autogen/timestamp	46158ee048ae1498
+1	258	1785150095767841444	/Users/gimdaegyeong/Desktop/app/cpp/QT/example1/build/Qt_6_9_3_for_macOS-Debug/example1_autogen/mocs_compilation.cpp	46158ee048ae1498
+260	1060	1785150095778861707	CMakeFiles/example1.dir/example1_autogen/mocs_compilation.cpp.o	c39b6290d17fb3d8
+260	1078	1785150095779006703	CMakeFiles/example1.dir/main.cpp.o	9fa4bcb161ab4b4f
+260	1174	1785150095779110492	CMakeFiles/example1.dir/mainwindow.cpp.o	e9305a33d1d0ad3d
+1174	1276	1785150096693335575	example1.app/Contents/MacOS/example1	5d529d1860e1a7b3

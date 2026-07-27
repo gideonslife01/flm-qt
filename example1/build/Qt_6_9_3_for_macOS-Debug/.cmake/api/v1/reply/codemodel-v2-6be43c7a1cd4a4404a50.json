@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-07284e76b23683c60bf7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "example1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "example1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example1-Debug-a6f79f08d20adaafc44b.json",
+					"name" : "example1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example1_autogen-Debug-d535c28a1e2d64f12c7f.json",
+					"name" : "example1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example1_autogen_timestamp_deps-Debug-9e49eefa84ad5ff458f2.json",
+					"name" : "example1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/gimdaegyeong/Desktop/app/cpp/QT/example1/build/Qt_6_9_3_for_macOS-Debug",
+		"source" : "/Users/gimdaegyeong/Desktop/app/cpp/QT/example1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
