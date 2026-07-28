@@ -1,0 +1,7 @@
+module example2
+typeinfo appexample2.qmltypes
+prefer :/qt/qml/example2/
+Main 254.0 Main.qml
+Screen01 254.0 qml/Screen01.qml
+depends QtQuick
+

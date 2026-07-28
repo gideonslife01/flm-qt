@@ -1,8 +1,11 @@
-✅ QT
+✅ QT6
 
 1.QML
 
-1)Anchor : 앵커 / Anchor
+1)example2 : QML(1)
+
+2)Anchor : 앵커 / Anchor
+
 
 2.QT Widget
 
