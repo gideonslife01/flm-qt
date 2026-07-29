@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/example3/">
+    <file alias="qml/qmldir">/Users/gimdaegyeong/Desktop/app/cpp/QT/example3/build/Qt_6_9_3_for_macOS-Debug/example3/qml/qmldir</file>
+  </qresource>
+</RCC>
+

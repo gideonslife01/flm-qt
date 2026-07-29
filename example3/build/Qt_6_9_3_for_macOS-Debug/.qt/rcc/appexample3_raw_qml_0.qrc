@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/example3/">
+    <file alias="Main.qml">/Users/gimdaegyeong/Desktop/app/cpp/QT/example3/Main.qml</file>
+    <file alias="qml/Screen01.qml">/Users/gimdaegyeong/Desktop/app/cpp/QT/example3/qml/Screen01.qml</file>
+  </qresource>
+</RCC>
+

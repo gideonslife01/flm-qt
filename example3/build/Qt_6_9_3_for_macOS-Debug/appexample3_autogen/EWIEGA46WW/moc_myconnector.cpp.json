@@ -1,0 +1,52 @@
+{
+    "classes": [
+        {
+            "className": "MyConnector",
+            "lineNumber": 9,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "text1",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "text2",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 15,
+                    "name": "updateText",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "MyConnector",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "result",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 0,
+                    "lineNumber": 18,
+                    "name": "resultReady",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "myconnector.h",
+    "outputRevision": 69
+}

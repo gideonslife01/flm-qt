@@ -6,6 +6,8 @@
 
 2)Anchor : 앵커 / Anchor
 
+3)example3 : QML + C++(1)
+
 
 2.QT Widget
 
